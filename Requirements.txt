@@ -1,0 +1,7 @@
+bertopic
+matplotlib
+nltk
+pandas
+scikit-learn
+statsmodels
+xgboost
